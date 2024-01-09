@@ -11,7 +11,7 @@ public class RotationGizmoEmulator : MonoBehaviour
 	public float speed = 30.0f;
 
 	void Update()
-    {
+	{
 		Quaternion currentRotation = transform.rotation;
 
 		if (coordSystem == CoordSystem.Global)
