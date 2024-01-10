@@ -1,6 +1,10 @@
 # UnityMiniDemos
 A bag of random demo apps/scripts written in Unity.
 
+List:
+- QuaternionsAndGimbalLock
+- FieldOfViewHorizontalAndVerticalConversion
+
 ## QuaternionsAndGimbalLock
 A demo application accompanying a YouTube video on quaternions and gimbal lock.
 
